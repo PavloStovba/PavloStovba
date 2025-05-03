@@ -31,9 +31,7 @@
 
 
   
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact" alt="Top Languages">
-  </div>
+ <!--  <div>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact" alt="Top Languages">  </div>
 
 
 <div align="center">
@@ -42,6 +40,6 @@
   <a href="https://leetcode.com/stovbapavlo/" target="_blank">
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
-</div>
+</div> -->
 
 
