@@ -33,13 +33,13 @@
   
   <div>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavloStovba&layout=compact" alt="Top Languages">  </div>
 
- <!--
+ 
 <div align="center">
-  <h3>My leetcode</h3>
+  <h3>My leetcode</h3> 
 </div>
-  <a href="https://leetcode.com/stovbapavlo/" target="_blank">
+  <a href="https://leetcode.com/u/stovbapavlo/" target="_blank">
     <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
   </a>
-</div> -->
+</div> 
 
 
