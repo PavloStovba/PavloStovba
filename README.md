@@ -8,7 +8,7 @@
 
 
 
-<a><img src="https://github-readme-streak-stats.herokuapp.com?user=stovbapavlo&theme=graywhite&border_radius=4.6&card_width=1000" alt="GitHub Streak" /></a>
+<a><img src="https://github-readme-streak-stats.herokuapp.com?user=PavloStovba&theme=graywhite&border_radius=4.6&card_width=1000" alt="GitHub Streak" /></a>
 
 <!--
 <div style="display: flex; justify-content: center;">
@@ -31,9 +31,9 @@
 
 
   
- <!--  <div>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stovbapavlo&layout=compact" alt="Top Languages">  </div>
+  <div>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PavloStovba&layout=compact" alt="Top Languages">  </div>
 
-
+ <!--
 <div align="center">
   <h3>My leetcode</h3>
 </div>
