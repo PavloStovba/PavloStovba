@@ -39,7 +39,7 @@
 </div>
   <a href="https://leetcode.com/stovbapavlo/" target="_blank">
   <img 
-    src="https://leetcard.jacoblin.cool/stovbapavlo?theme=nord&hide_rank=true&show_language=true&font=Fira+Code" 
+    src="https://leetcard.jacoblin.cool/stovbapavlo?theme=light&hide_rank=true&show_language=true&font=Fira+Code" 
     alt="LeetCode Stats"
   />
 </a>
