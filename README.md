@@ -37,9 +37,13 @@
 <div align="center">
   <h3>My leetcode</h3> 
 </div>
-  <a href="https://leetcode.com/u/stovbapavlo/" target="_blank">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=stovbapavlo" alt="KnlnKS's LeetCode Stats">
-  </a>
+  <a href="https://leetcode.com/stovbapavlo/" target="_blank">
+  <img 
+    src="https://leetcard.jacoblin.cool/stovbapavlo?theme=nord&hide_rank=true&show_language=true&font=Fira+Code" 
+    alt="LeetCode Stats"
+  />
+</a>
+
 </div> 
 
 
